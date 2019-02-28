@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+
+<head>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-1540718643219452",
+      enable_page_level_ads: true
+    });
+  </script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vädret i Kristianstad - radar, flerdygnsprognos, nederbördskarta och UV-index</title>
+
+  <link rel="stylesheet" href="style.css" />
+
+  <script type="text/javascript">
+    window.google_analytics_uacct = "UA-80494-8";
+  </script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-80494-8']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body>
+  <header>
+    <nav class="topnav" id="myTopnav">
+    <!--#include file="menu.html" -->
+    </nav>
+  </header>
+  <section>
+    <article>
+      <!--#include file="importantinfo.html" -->
+      <div style="overflow: hidden; margin: 15px auto; ">
+        <iframe id="nedboer" scrolling="no" class="responsiveEmbed" src="https://www.yr.no/place/Sweden/Scania/Kristianstad/hour_by_hour_detailed.html"></iframe>
+      </div>
+
+
+    </article>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- vadermalmo2019 -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1540718643219452" data-ad-slot="3368861616" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <article>
+      <div style="overflow: hidden; margin: 15px auto; ">
+        <iframe id="vejrkort" scrolling="no" class="responsiveEmbed" src="https://www.yr.no/kart/#lat=56.48497&lon=13.07701&zoom=5&laga=nedb%C3%B8rskyer&baseid=PunktUtlandet%3A2692969&proj=3575"></iframe>
+      </div>
+      <!-- DMI 7-10 dagar prognos -->
+
+    </article>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- vadermalmo2019 -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1540718643219452" data-ad-slot="3368861616" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <p class="end">Denna sida presenterar allt du beh&ouml;ver veta om v&auml;dret med info fr&aring;n <a href="https://www.yr.no">www.yr.no</a> och <a href="https://www.wunderground.com">wunderground</a> med radar, flerdygnsprognos, nederbördskarta och UV-index.
+    </p>
+  </section>
+
+  <script src="script-nav.js"></script>
+
+</body>
+
+</html>

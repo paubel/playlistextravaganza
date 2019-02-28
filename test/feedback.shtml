@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+
+<head>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-1540718643219452",
+      enable_page_level_ads: true
+    });
+  </script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vädret i Malmö - radar, flerdygnsprognos, nederbördskarta och UV-index</title>
+
+  <link rel="stylesheet" href="style.css" />
+
+  <script type="text/javascript">
+    window.google_analytics_uacct = "UA-80494-8";
+  </script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-80494-8']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  <style>
+    h1,
+    p,
+    li {
+      font-family: Verdana, Arial, sans-serif;
+      font-size: 1.3em;
+    }
+
+    iframe.giphy-embed {
+      max-width: 700px;
+      max-height: 700px;
+    }
+  </style>
+
+</head>
+
+<body>
+  <header>
+    <nav class="topnav" id="myTopnav">
+      <!--#include file="menu.html" -->
+    </nav>
+  </header>
+  <section>
+    <article>
+
+
+      <p></p>
+      <h1>Svar på återkoppling från användare</h1>
+      <ul>
+      
+        <li>
+          Kartan längst ner på en orts webbplats är interaktiv. Där kan du få radarbilder på nederbörd, vindkarta, UV-karta. Se animation längst ner.
+        </li>
+        <li>
+          På Malmösidan finns just nu flerdygnsprognos från www.wunderground.com. Vad tycker ni om den? <a href="https://goo.gl/forms/cAI0bIgWfa7iSt4q1" target="_blank">Skriv till mig</a>
+        </li>
+        <div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/xMph0FtMoygkli7yvC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+      </ul>
+
+
+
+    </article>
+
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- vadermalmo2019 -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1540718643219452" data-ad-slot="3368861616" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <p class="end">Denna sida presenterar allt du beh&ouml;ver veta om v&auml;dret med info fr&aring;n <a href="https://www.yr.no">www.yr.no</a> och <a href="https://www.wunderground.com">wunderground</a> med radar, flerdygnsprognos, nederbördskarta och UV-index.
+    </p>
+  </section>
+
+  <script src="script-nav.js"></script>
+
+</body>
+
+</html>

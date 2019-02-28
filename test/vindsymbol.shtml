@@ -1,0 +1,203 @@
+<!doctype html>
+<html>
+
+<head>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-1540718643219452",
+      enable_page_level_ads: true
+    });
+  </script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vädret i Malmö - radar, flerdygnsprognos, nederbördskarta och UV-index</title>
+
+  <link rel="stylesheet" href="style.css" />
+
+  <script type="text/javascript">
+    window.google_analytics_uacct = "UA-80494-8";
+  </script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-80494-8']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  <style>
+    h1,
+    p,
+    li, td {
+      font-family: Verdana, Arial, sans-serif;
+      font-size: 1em;
+    }
+  </style>
+
+
+</head>
+
+<body>
+  <header>
+    <nav class="topnav" id="myTopnav">
+    <!--#include file="menu.html" -->
+    </nav>
+  </header>
+  <section>
+    <article>
+      <div class="article-body">
+        <img src="vindsymbol.png" width="700px">
+        <p>Längst ner på diagrammet finns vindsymboler. Pilens riktning anger vindriktning. De små utstickande strecken anger hur stark vinden är. Ett halvt streck är ca 1,5 m/s. Ett heltstreck ca 3 m/s. I tabellen nedan kan du se vad som kännetecknar olika
+          vindstyrkor. </p>
+        <p>&nbsp;</p>
+        <table class="beufort wysiwyg-text-align-left" style="width: 682px; height: 652px;" cellpadding="10px">
+          <caption style="border: 1 px solid #D3D3D3;">
+            <h3 class="wysiwyg-text-align-left">Vindens påverkan på land</h3>
+          </caption>
+          <thead>
+            <tr>
+              <th class="wysiwyg-text-align-left" style="width: 102px;">
+                <p>Namn</p>
+              </th>
+              <th class="wysiwyg-text-align-left" style="width: 69px;">
+                <p>Symbol</p>
+              </th>
+              <th class="wysiwyg-text-align-left" style="width: 75px;">
+                <p>m/s</p>
+              </th>
+              <th class="wysiwyg-text-align-left" style="width: 92px;">
+                <p>Knop</p>
+              </th>
+              <th class="wysiwyg-text-align-left" style="width: 334px;">
+                <p>Kännetecken</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Stilla</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><a href="http://om.yr.no/wp-content/uploads/2006/09/vindstille.png"><img class="alignnone size-full wp-image-1158" src="http://om.yr.no/wp-content/uploads/2006/09/vindstille.png" alt="vindstille" width="32" height="32"></a></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">0,0-0,2</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">0-1</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Löv hänger stilla</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Svag vind</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0000.225.png" alt="Flau vind"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">0,3-1,5</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">1-3</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Knappt märkbar för känseln, löv rör sig sakta</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Svag vind</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.225.png" alt="Svak vind"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">1,6-3,3</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">4-6</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Man kan känna vinden, Lyfter vimpel, vindflöjel visar vindriktningen, på sjön korta tydliga vågor</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Lätt bris</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0050.225.png" alt="Lett bris"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">3,4-5,4</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">7-10</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Vimpel sträcks, flagga lyfts, löv vibrerar, tunna kvistar på lövklädda träd i oavbruten rörelse, vågkammar börjar brytas här och var</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Medelbris</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0075.225.png" alt="Laber bris"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">5,5-7,9</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">11-16</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Tunnare grenar på lövklädda träd rör sig, damm och lös snö virvlar upp, på sjön långa vågor med vita kammar. </td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Frisk bris</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0100.225.png" alt="Frisk bris"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">8,0-10,7</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">17-21</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Mindre lövträd svajar, tröttsamt gå mot vinden, utpräglade långa vågor som tidvis bryter. Skumkammar överallt.</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Liten kuling</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0125.225.png" alt="Liten kuling"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">10,8-13,8</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">22-27</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Stora grenar på lövklädda träd rör sig, det viner i luftledningar, på sjön stora vågberg.</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Styv kuling</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0150.225.png" alt="Stiv kuling"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">13,9-17,1</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">28-33</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Böjer mindre trädstammar, svårt gå upprätt, sjön tornar upp sig och bryter, skummet läggs i strimmor i vindriktningen.</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Stark kuling</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0175.225.png" alt="Sterk kuling"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">17,2-20,7</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">34-40</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Bryter kvistar, besvärligt gå över öppna ytor, vågors höjd och längd betydande, skumstrimmorna tätnar. </td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Liten storm</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0225.225.png" alt="Liten storm"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">20,8-24,4</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">41-47</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Bryter mindre träd, taktegel blåser ned. På öppet hav är vågorna över 3 meter, ibland upp till 5 meter. Färjetrafiken påverkas av t.ex. förseningar.</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Full storm</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0250.225.png" alt="Full storm"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">24,5-28,4</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">48-55</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Rycker upp stora träd med rötterna, stora skador på hus, höga vågberg med brottsjöar, havet nästan vitt av skum.</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Stark storm</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0300.225.png" alt="Sterk storm"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">28,5-32,6</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">56-63</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">På stora ytor i skog har alla träd fällts av vinden, stora fartyg som nyss synts försvinner bakom vågberg.</td>
+            </tr>
+            <tr>
+              <td class="wysiwyg-text-align-left" style="width: 102px;">Orkan</td>
+              <td class="wysiwyg-text-align-left" style="width: 69px;"><img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0350.225.png" alt="Orkan"></td>
+              <td class="wysiwyg-text-align-left" style="width: 75px;">32,6-</td>
+              <td class="wysiwyg-text-align-left" style="width: 92px;">64-</td>
+              <td class="wysiwyg-text-align-left" style="width: 334px;">Stora föremål flyger i luften, fönster blåser in, byggnadsställningar rasar, båtar kastas upp på land, allmän ödeläggelse.</td>
+            </tr>
+          </tbody>
+        </table>
+
+      </div>
+
+
+    </article>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- vadermalmo2019 -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1540718643219452" data-ad-slot="3368861616" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- vadermalmo2019 -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1540718643219452" data-ad-slot="3368861616" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <p class="end">Denna sida presenterar allt du beh&ouml;ver veta om v&auml;dret med info fr&aring;n <a href="https://www.yr.no">www.yr.no</a> och <a href="https://www.wunderground.com">wunderground</a> med radar, flerdygnsprognos, nederbördskarta och UV-index.
+    </p>
+  </section>
+
+  <script src="script-nav.js"></script>
+
+</body>
+
+</html>
