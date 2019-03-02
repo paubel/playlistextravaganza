@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Home</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--#include file="ssi-descriptionfonts.html" -->
+</head>
+
+<body>
+  <header>
+    <!--#include file="ssi-header.html" -->
+  </header>
+  <!--#include file="ssi-menu.html" -->
+  <p>Welcome</p>
+  <footer>
+    <!--#include file="ssi-footer.html" -->
+  </footer>
+  <script src="script-nav.js"></script>
+</body>
+
+</html>

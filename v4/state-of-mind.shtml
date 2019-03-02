@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Home</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--#include file="ssi-descriptionfonts.html" -->
+</head>
+
+<body>
+  <header>
+    <!--#include file="ssi-header.html" -->
+  </header>
+  <!--#include file="ssi-menu.html" -->
+  <div class="wrapper">
+    <div class="box a">
+      <h1>Relaxation</h1>
+      <p></p>
+      <iframe src="https://open.spotify.com/embed/user/pbelfrage/playlist/2shyoJ5yJGXO40Iq19sHth"></iframe>
+    </div>
+    <div class="box a">
+      <h1>Sadness</h1>
+      <p></p>
+      <iframe src="https://open.spotify.com/embed/user/pbelfrage/playlist/52FxDj85n1LVdRvHI1lk3o"></iframe>
+    </div>
+    <div class="box a">
+      <h1>Happiness</h1>
+      <p></p>
+      <iframe src="https://open.spotify.com/embed/user/pbelfrage/playlist/0gzZ8mR4cgFBu3B5y5Qm2b"></iframe>
+    </div>
+  </div>
+
+
+  <footer>
+    <!--#include file="ssi-footer.html" -->
+  </footer>
+  <script src="script-nav.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+body {
+  margin: 40px;
+}
+
+.wrapper {
+  margin-top: 7px;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+}
+
+.box {
+  background-color: rgba(200, 200, 200, 0.4);
+  border-radius: 10px;
+  padding: 20px;
+}

@@ -1,0 +1,19 @@
+ONS Använd SSI !!!
+
+https://developer.spotify.com/documentation/widgets/generate/play-button/
+
+https://www.transparenttextures.com/
+https://www.toptal.com/designers/subtlepatterns/
+
+Responsive Topnav with Dropdown
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_responsive_navbar_dropdown
+/*Spotify color
+Dark green #25741D
+Light green #C8E8C5
+Green #6eb768
+
+http://paletton.com/#uid=12N0u0kdPs24RKZ94yGj1mUo8hQ
+
+
+
+#65d36e    #64d16e*/
